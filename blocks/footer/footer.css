@@ -2,7 +2,6 @@
   margin: 92px auto 24px auto;
   max-width: 1184px;
   display: flex;
-  gap: 18px;
   justify-content: space-between;
 }
 @media screen and (min-width: 1024px) and (max-width: 1079px){

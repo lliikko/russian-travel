@@ -1,8 +1,6 @@
 .cover__title{
-  margin: 0;
-  position: absolute;
-  top: 245px;
-  right: 312px;
+  margin-top: 245px;
+  margin-bottom: 32px;
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
@@ -13,20 +11,19 @@
 }
 @media screen and (min-width: 1024px) and (max-width: 1079px){
   .cover__title{
-    top: 195px;
-    right: 232px;
+    margin-top: 195px;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px){
   .cover__title{
-    top: 115px;
-    right: 104px;
+    margin-top: 115px;
   }
 }
 @media screen  and (max-width: 767px){
   .cover__title{
+    margin-top: 33px;
+    margin-bottom: 16px;
     font-style: normal;
-    font-weight: 900;
     font-size: 32px;
     line-height: 35px;
     top: 33px;

@@ -9,5 +9,5 @@
 Flexbox, Grid Layout, медиазапросы.
 
 **Сcылка на проект**
-https://github.com/lliikko/russian-travel
+https://lliikko.github.io/russian-travel/
 
