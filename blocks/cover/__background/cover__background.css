@@ -5,6 +5,8 @@
   position: relative;
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
   background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
   background-position: center;
